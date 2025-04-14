@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\FintechSampleProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\ado.net\\trademonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\ado.net\\trademonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\itrademonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\itrademonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\models\\traderactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\models\\traderactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\ado.net\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\ado.net\\tradeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\services\\tradeprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\services\\tradeprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\itradequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\itradequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\ado.net\\tradequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\ado.net\\tradequeueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\client\\fxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\client\\fxclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\server\\fxhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\server\\fxhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\models\\userbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\models\\userbalance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\dataobjects\\ado.net\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\dataobjects\\ado.net\\exchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\helpers\\generateadmintoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\helpers\\generateadmintoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\models\\dailytradesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\models\\dailytradesummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|c:\\git\\fintechsampleproject\\fintechsampleproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616D89BB-09BB-4AC4-9CB3-E8C30A99ECED}|FintechSampleProject\\FintechSampleProject.csproj|solutionrelative:fintechsampleproject\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITradeMonitorService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\ITradeMonitorService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\ITradeMonitorService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\ITradeMonitorService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\ITradeMonitorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:21:02.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITradeQueueService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\ITradeQueueService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\ITradeQueueService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\ITradeQueueService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\ITradeQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:34:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\IExchangeRateService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\IExchangeRateService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\IExchangeRateService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\IExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:02:21.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradeProcessingService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Services\\TradeProcessingService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Services\\TradeProcessingService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Services\\TradeProcessingService.cs",
+              "RelativeToolTip": "FintechSampleProject\\Services\\TradeProcessingService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:44:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TraderActivity.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\TraderActivity.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Models\\TraderActivity.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\TraderActivity.cs",
+              "RelativeToolTip": "FintechSampleProject\\Models\\TraderActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:38:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserBalance.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\UserBalance.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Models\\UserBalance.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\UserBalance.cs",
+              "RelativeToolTip": "FintechSampleProject\\Models\\UserBalance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:37:44.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\ExchangeRateService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\Ado.Net\\ExchangeRateService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\ExchangeRateService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\Ado.Net\\ExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:02:53.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TradeService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeService.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAASwJEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:02:22.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FintechSampleProject\\appsettings.json",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\appsettings.json",
+              "RelativeToolTip": "FintechSampleProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T06:02:06.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeMonitorService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeMonitorService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeMonitorService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeMonitorService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeMonitorService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:01:46.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradeQueueService.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeQueueService.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeQueueService.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\DataObjects\\Ado.Net\\TradeQueueService.cs",
+              "RelativeToolTip": "FintechSampleProject\\DataObjects\\Ado.Net\\TradeQueueService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBAAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:01:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Models\\Trade.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\Trade.cs",
+              "RelativeToolTip": "FintechSampleProject\\Models\\Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:59:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DailyTradeSummary.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\DailyTradeSummary.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Models\\DailyTradeSummary.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\DailyTradeSummary.cs",
+              "RelativeToolTip": "FintechSampleProject\\Models\\DailyTradeSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T16:33:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Models\\Account.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Models\\Account.cs",
+              "RelativeToolTip": "FintechSampleProject\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:02:39.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Program.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Program.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Program.cs",
+              "RelativeToolTip": "FintechSampleProject\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:00:33.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenerateAdminToken.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Helpers\\GenerateAdminToken.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Helpers\\GenerateAdminToken.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Helpers\\GenerateAdminToken.cs",
+              "RelativeToolTip": "FintechSampleProject\\Helpers\\GenerateAdminToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T15:00:17.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FxClient.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Client\\FxClient.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Client\\FxClient.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Client\\FxClient.cs",
+              "RelativeToolTip": "FintechSampleProject\\Client\\FxClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:26:46.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FxHub.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Server\\FxHub.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Server\\FxHub.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Server\\FxHub.cs",
+              "RelativeToolTip": "FintechSampleProject\\Server\\FxHub.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:43.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TradesController.cs",
+              "DocumentMoniker": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Controllers\\TradesController.cs",
+              "RelativeDocumentMoniker": "FintechSampleProject\\Controllers\\TradesController.cs",
+              "ToolTip": "C:\\Git\\FintechSampleProject\\FintechSampleProject\\Controllers\\TradesController.cs",
+              "RelativeToolTip": "FintechSampleProject\\Controllers\\TradesController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAzwKoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:17:28.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

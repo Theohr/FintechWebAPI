@@ -1,0 +1,145 @@
+[
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "CancelTrade",
+    "RelativePath": "api/trades/cancel/{tradeId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tradeId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "GenerateToken",
+    "RelativePath": "api/trades/generate-token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "IngestTrade",
+    "RelativePath": "api/trades/ingest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trade",
+        "Type": "FintechSampleProject.Models.Trade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "UpdatePreferences",
+    "RelativePath": "api/trades/preferences",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "preferences",
+        "Type": "FintechSampleProject.Models.Preferences",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "GetRecentTrades",
+    "RelativePath": "api/trades/recent/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "SubmitTrade",
+    "RelativePath": "api/trades/submit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "trade",
+        "Type": "FintechSampleProject.Models.Trade",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "GetDailyTradeSummary",
+    "RelativePath": "api/trades/summary/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FintechSampleProject.Controllers.TradesController",
+    "Method": "GetTotalByUser",
+    "RelativePath": "api/trades/total/{userId}/{accountId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "accountId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
